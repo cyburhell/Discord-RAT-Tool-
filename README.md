@@ -37,8 +37,6 @@ pip install -r requirements.txt
 3️⃣ Add your **Discord guild ID** on **line 23** inside the `guild_idd` variable  
 
 
-```
 
 ## 🛡️ Disclaimer (Again)  
 This tool is intended **only for ethical and educational purposes**. The author is **not responsible** for any illegal activities. Use it responsibly.  
-```
