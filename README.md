@@ -23,25 +23,20 @@ R4T Tool is a powerful **Remote Administration Tool (RAT)** designed for executi
 
 ## 📌 Setup & Usage  
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/cyburhell/Discord-RAT-Tool.git
-
-## 📌 Setup & Usage  
-
-### Install Dependencies  
 ```bash
-pip install -r requirements.txt
-```
+🔹 Clone the Repository  
+git clone https://github.com/cyburhell/Discord-RAT-Tool.git  
+cd Discord-RAT-Tool  
 
-### Configure Your Bot  
-- Open `rat.py`  
-- **Add your Discord bot token** on **line 15**.  
-- **Add your Discord guild ID** on **line 23** inside the `guild_idd` variable.  
+🔹 Install Dependencies  
+pip install -r requirements.txt  
 
-### Run the RAT Tool  
-```bash
-python rat.py
+🔹 Configure Your Bot
+1️⃣ Open `rat.py`  
+2️⃣ Add your **Discord bot token** on **line 15**  
+3️⃣ Add your **Discord guild ID** on **line 23** inside the `guild_idd` variable  
+
+
 ```
 
 ## 🛡️ Disclaimer (Again)  
